@@ -1,4 +1,4 @@
-Aspiring Hardware Developer | Building the Future, Brick by Brick
+Aspiring Developer | Building the Future, Brick by Brick
 Hello, 
 
 My name is Ekenedilichukwu (Kene) Chukwuma. I'm a Rising Junior at Cornell University with a strong interest in developing innovative hardware solutions that enhance daily life. I'm particularly fascinated by the possibilities of automation, IoT, and embedded systems.
